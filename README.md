@@ -14,3 +14,11 @@ The installation of this project can be done by following these steps:
 ## View Inventory:
 ![image](https://github.com/dklkushal07/InventoryManagementSystem/assets/68638711/053d8dfb-30c9-4ff5-8a4b-c446ed2bec8b)
 
+## Buy Product:
+![image](https://github.com/dklkushal07/InventoryManagementSystem/assets/68638711/81d39dea-a655-4ac2-ae3d-40d31380aa78)
+
+## Sell Product:
+![image](https://github.com/dklkushal07/InventoryManagementSystem/assets/68638711/d8aa31fe-3525-409f-a504-2ae27a092a68)
+
+## Print Invoice:
+![image](https://github.com/dklkushal07/InventoryManagementSystem/assets/68638711/b403aeb3-f112-46c7-89a2-6423a7de7992)
