@@ -1,5 +1,7 @@
 # InventoryManagementSystem
 
+The command line-based inventory management system for a laptop shop, developed in Python, streamlines the process of managing orders and sales transactions. It efficiently handles orders from manufacturers and sales to diverse customers, including individuals and companies. The program reads data from a text file containing details of available laptops and updates the file dynamically based on transactions. Additionally, it generates detailed receipts for each transaction, providing comprehensive information such as brand, date, time, total amount spent, laptop name, and manufacturer. With its intuitive command line interface, this system offers a lightweight yet powerful solution for effectively managing inventory and sales operations in the laptop retail industry.
+
 # Installation:
 The installation of this project can be done by following these steps:
 
